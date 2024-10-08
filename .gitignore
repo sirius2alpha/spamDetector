@@ -1,3 +1,5 @@
+# IDE
 .idea/*
 
+# Compiled source
 __pycache__/
